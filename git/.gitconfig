@@ -1,0 +1,10 @@
+[user]
+	name = Scott Teschndorf
+	email = teschendsn11@gmail.com
+	username = teschendsn11
+
+[init]
+	defaultBranch = main
+
+[core]
+	editor = code
